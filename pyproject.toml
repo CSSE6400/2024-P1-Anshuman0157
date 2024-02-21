@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "2024-p1-anshuman0157"
+version = "0.1.0"
+description = ""
+authors = ["Anshuman Misra <108968309+Anshuman0157@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+flask = "^3.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
